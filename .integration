@@ -1,6 +1,4 @@
-multi_tenant = true
-locked_packages = My Package, My Package2
-command = python3 start_integration.py
-settings_file_name = settings.json
-default_schedule = 0 */5 * * * ?
-read_from_stdout = false
+1.0 = [24.3.0, 24.13.0)
+1.1 = [24.3.0, 24.13.0)
+1.2 = [24.7.0, 24.14.0)
+1.3 = [24.14.0, )
