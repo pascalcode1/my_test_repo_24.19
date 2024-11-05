@@ -36,7 +36,7 @@
   "description" : "some Password",
   "isReadOnly" : false,
   "isHidden" : false,
-  "isRequired" : true,
+  "isRequired" : false,
   "orderNumber" : 2
 },{
   "name" : "sqlqueryselector",
