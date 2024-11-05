@@ -6,7 +6,6 @@
   "description" : "some Text",
   "isReadOnly" : false,
   "isHidden" : false,
-  "isRequired" : false,
   "orderNumber" : 1
 },{
   "name" : "number",
@@ -16,7 +15,6 @@
   "description" : "some Number",
   "isReadOnly" : false,
   "isHidden" : false,
-  "isRequired" : false,
   "orderNumber" : 3
 },{
   "name" : "yesno",
@@ -26,7 +24,6 @@
   "description" : "some Yes/No",
   "isReadOnly" : false,
   "isHidden" : false,
-  "isRequired" : true,
   "orderNumber" : 4
 },{
   "name" : "password",
@@ -36,7 +33,6 @@
   "description" : "some Password",
   "isReadOnly" : false,
   "isHidden" : false,
-  "isRequired" : false,
   "orderNumber" : 2
 },{
   "name" : "sqlqueryselector",
@@ -45,8 +41,7 @@
   "paramSql" : "",
   "description" : "some Sql Query Selector",
   "isReadOnly" : false,
-  "isHidden" : false,
-  "isRequired" : true
+  "isHidden" : false
 },{
   "name" : "userselector",
   "typeId": 150,
@@ -62,8 +57,7 @@
   "paramSql" : "",
   "description" : "some Latitude",
   "isReadOnly" : false,
-  "isHidden" : false,
-  "isRequired" : true
+  "isHidden" : false
 },{
   "name" : "longitude",
   "typeId": 170,
