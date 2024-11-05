@@ -5,7 +5,7 @@
   "paramSql" : "",
   "description" : "some Text",
   "isReadOnly" : false,
-  "isHidden" : false,
+  "isHidden" : true,
   "orderNumber" : 1
 },{
   "name" : "number",
