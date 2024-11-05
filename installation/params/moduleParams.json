@@ -54,8 +54,7 @@
   "paramSql" : "",
   "description" : "some User Selector",
   "isReadOnly" : false,
-  "isHidden" : false,
-  "isRequired" : true
+  "isHidden" : false
 },{
   "name" : "latitude",
   "typeId": 160,
@@ -72,6 +71,5 @@
   "paramSql" : "",
   "description" : "some Longitude",
   "isReadOnly" : false,
-  "isHidden" : false,
-  "isRequired" : true
+  "isHidden" : false
 }]
