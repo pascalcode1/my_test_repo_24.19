@@ -7,7 +7,7 @@
   "isReadOnly" : false,
   "isHidden" : false,
   "orderNumber" : 1,
-  "isRequired" : true
+  "isRequired" : false
 },{
   "name" : "number",
   "typeId": 1,
@@ -17,7 +17,7 @@
   "isReadOnly" : false,
   "isHidden" : false,
   "orderNumber" : 3,
-  "isRequired" : true
+  "isRequired" : false
 },{
   "name" : "yesno",
   "typeId": 3,
@@ -27,7 +27,7 @@
   "isReadOnly" : false,
   "isHidden" : false,
   "orderNumber" : 4,
-  "isRequired" : false
+  "isRequired" : true
 },{
   "name" : "password",
   "typeId": 8,
@@ -37,7 +37,7 @@
   "isReadOnly" : false,
   "isHidden" : false,
   "orderNumber" : 2,
-  "isRequired" : false
+  "isRequired" : true
 },{
   "name" : "sqlqueryselector",
   "typeId": 90,
