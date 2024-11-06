@@ -6,7 +6,8 @@
   "description" : "some Text",
   "isReadOnly" : false,
   "isHidden" : false,
-  "orderNumber" : 1
+  "orderNumber" : 1,
+  "isRequired" : true
 },{
   "name" : "number",
   "typeId": 1,
@@ -15,7 +16,8 @@
   "description" : "some Number",
   "isReadOnly" : false,
   "isHidden" : false,
-  "orderNumber" : 3
+  "orderNumber" : 3,
+  "isRequired" : true
 },{
   "name" : "yesno",
   "typeId": 3,
@@ -24,7 +26,8 @@
   "description" : "some Yes/No",
   "isReadOnly" : false,
   "isHidden" : false,
-  "orderNumber" : 4
+  "orderNumber" : 4,
+  "isRequired" : true
 },{
   "name" : "password",
   "typeId": 8,
@@ -34,7 +37,7 @@
   "isReadOnly" : false,
   "isHidden" : false,
   "orderNumber" : 2,
-  "isRequired" : false
+  "isRequired" : true
 },{
   "name" : "sqlqueryselector",
   "typeId": 90,
@@ -43,7 +46,7 @@
   "description" : "some Sql Query Selector",
   "isReadOnly" : false,
   "isHidden" : false,
-  "isRequired" : false
+  "isRequired" : true
 },{
   "name" : "userselector",
   "typeId": 150,
