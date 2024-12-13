@@ -41,8 +41,8 @@
 },{
   "name" : "sqlqueryselector",
   "typeId": 90,
-  "value": "",
-  "paramSql" : "",
+  "value": "100095147",
+  "paramSql" : "select 1 from dual",
   "description" : "some Sql Query Selector",
   "isReadOnly" : false,
   "isHidden" : false
