@@ -1,2 +1,3 @@
 command = python3 ./test.py
 settings_file_name = settings.json
+default_schedule = 0 */10 * ? * * *
